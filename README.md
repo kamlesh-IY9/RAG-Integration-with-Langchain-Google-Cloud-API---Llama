@@ -1,1 +1,1 @@
-# Retirever-and-Chain-Integration-with-Langchain-Google-Cloud-API---Ollama
+# RAG-Integration-with-Langchain-Google-Cloud-API---Ollama
